@@ -5,7 +5,10 @@ The detection results are displayed in real-time and saved to a new video file.
   
 이 프로젝트는 YOLOv11 모델을 사용하여 비디오에서 화재와 연기를 감지합니다.  
 전기 차량의 화재 전조 증상을 감지하는 것이 최종 목표입니다.  
-
+  
+  
+<img src="https://raw.githubusercontent.com/bsy0317/yolov11_FireSmokeDetect/refs/heads/sample/detected_IMG_0181.gif"/>  
+  
 ## Table of Contents
 
 - [Overview](#overview)
